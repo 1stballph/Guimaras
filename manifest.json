@@ -1,0 +1,26 @@
+{
+  "name": "1st Ball STL Daily Draw",
+  "short_name": "1st Ball",
+  "description": "Pick 1 number, 3 draws daily. Win prizes!",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D0D1A",
+  "theme_color": "#0D0D1A",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
