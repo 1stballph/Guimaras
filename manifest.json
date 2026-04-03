@@ -1,7 +1,7 @@
 {
   "name": "1st Ball STL Daily Draw",
   "short_name": "1st Ball",
-  "description": "Pick 1 number, 3 draws daily. Win prizes!",
+  "description": "Pick 1 number, 2 draws daily. Win prizes!",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
